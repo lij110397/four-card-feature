@@ -92,14 +92,14 @@ img {
 }
 
 :root {
-    --step--2: clamp(0.6rem, 0.5032rem + 0.4128vi, 0.8748rem);
-    --step--1: clamp(0.75rem, 0.629rem + 0.5161vi, 1.0935rem);
+    /* --step--2: clamp(0.6rem, 0.5032rem + 0.4128vi, 0.8748rem);
+    --step--1: clamp(0.75rem, 0.629rem + 0.5161vi, 1.0935rem); */
     --step-0: clamp(0.9375rem, 0.7863rem + 0.6451vi, 1.3669rem);
-    --step-1: clamp(1.1719rem, 0.9829rem + 0.8063vi, 1.7086rem);
+    /* --step-1: clamp(1.1719rem, 0.9829rem + 0.8063vi, 1.7086rem);
     --step-2: clamp(1.4648rem, 1.2286rem + 1.0079vi, 2.1357rem);
     --step-3: clamp(1.8311rem, 1.5358rem + 1.2599vi, 2.6697rem);
     --step-4: clamp(2.2888rem, 1.9197rem + 1.5749vi, 3.3371rem);
-    --step-5: clamp(2.861rem, 2.3996rem + 1.9686vi, 4.1714rem);
+    --step-5: clamp(2.861rem, 2.3996rem + 1.9686vi, 4.1714rem); */
   }
 
 
